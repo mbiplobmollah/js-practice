@@ -20,4 +20,3 @@ console.log(10 !== '10')
 
 
 
-// 0, "", null, undefined, NaN, false -> these are falsy value
