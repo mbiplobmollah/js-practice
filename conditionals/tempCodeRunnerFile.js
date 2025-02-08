@@ -1,1 +1,1 @@
-var score = 59 ;
+console.log(num1 + num2);
