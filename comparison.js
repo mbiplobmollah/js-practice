@@ -17,3 +17,7 @@ var applePrice = 250;
 
 console.log(10 != '10')
 console.log(10 !== '10')
+
+
+
+// 0, "", null, undefined, NaN, false -> these are falsy value
