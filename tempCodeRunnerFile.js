@@ -1,5 +1,5 @@
-for(let i = 1 ; i<=30; i++ ){
-//     if(i%5 === 0){
-//         console.log(i);
-//     }
+let i = 10;
+// while(i <= 5){
+//     console.log(i);
+//     i++
 // }
